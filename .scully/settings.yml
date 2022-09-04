@@ -1,0 +1,11 @@
+identifier: lc75n35fo3newb20
+appPort: 1864
+staticPort: 1668
+reloadPort: 2667
+hostName: localhost
+projectName: my-blog
+homeFolder: /Users/zhangsirui/WebstormProjects/my-blog
+distFolder: dist/my-blog
+outDir: /Users/zhangsirui/WebstormProjects/my-blog/dist/static
+handle404: ''
+allowErrorCollect: true
